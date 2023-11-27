@@ -1,5 +1,4 @@
 <?php
-
 namespace Avalanche\Bundle\ImagineBundle;
 
 use Avalanche\Bundle\ImagineBundle\DependencyInjection\Compiler\LoadersCompilerPass;
